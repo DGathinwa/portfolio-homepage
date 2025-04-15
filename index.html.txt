@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daniel Gathinwa | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Daniel Gathinwa Mwangi</h1>
+    <p>ICT Professional | Web Developer | Tech Enthusiast</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>
+      I'm a passionate and versatile ICT professional with experience in IT support, web development, and business information systems. I love solving problems and building solutions that make a difference.
+    </p>
+  </section>
+
+  <section class="skills">
+    <h2>Tech Stack</h2>
+    <ul>
+      <li>HTML5</li>
+      <li>CSS3</li>
+      <li>JavaScript</li>
+      <li>PHP</li>
+      <li>SQL</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Email: your-email@example.com</p>
+    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Daniel Gathinwa Mwangi</p>
+  </footer>
+</body>
+</html>
